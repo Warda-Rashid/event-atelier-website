@@ -12,10 +12,4 @@ This repository contains the source code for the official Event Atelier website.
 * **Contact Form:** A direct channel for potential clients to reach out.
 * **(Add any other features like responsiveness, animations, etc. if applicable)**
 
-## Technologies Used
-* HTML5 (for structuring the web content)
-* CSS3 (for styling and layout)
-* (If you used JavaScript, add it here, e.g., "JavaScript (for interactive elements)")
-* (If you used any frameworks/libraries like Bootstrap, mention them here)
 
-## Project Structure
